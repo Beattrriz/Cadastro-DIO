@@ -1,0 +1,47 @@
+{
+  "success": true,
+  "users": [
+    {
+      "id": "1",
+      "name": "Beatriz",
+      "email": "bia@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "2",
+      "name": "Paulo",
+      "email": "paulo@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "e6b5",
+      "fullName": "Beatriz Santos",
+      "email": "by@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "e5e0",
+      "fullName": "Joilda dos Santos Souza",
+      "email": "byalt1228@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "aa1f",
+      "fullName": "Bia Clara",
+      "email": "CB@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "8cb8",
+      "fullName": "Maria",
+      "email": "m@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "587f",
+      "fullName": "Mavie",
+      "email": "ma@hotmail.com",
+      "password": "12345"
+    }
+  ]
+}
